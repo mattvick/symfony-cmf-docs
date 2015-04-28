@@ -204,7 +204,7 @@ Final Thoughts
 
 You made it! Let's summarize what you've learned in the Quick Tour:
 
-* The Symfony CMF is build for highly customized Content Management Systems;
+* The Symfony CMF is built for highly customized Content Management Systems;
 * The Symfony CMF team creates bundles with a specific CMS feature, which can
   be used both together and standalone;
 * The Symfony CMF uses the database in order to make a lot of things editable
